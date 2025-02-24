@@ -1,0 +1,14 @@
+pytesseract
+pdf2image
+numpy==1.24.3
+pandas
+opencv-python
+pillow
+scikit-learn
+spacy
+torch
+transformers
+tqdm
+easyocr
+pdfminer.six
+unstructured
