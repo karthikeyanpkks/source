@@ -6,7 +6,7 @@ import zipfile
 import shutil
 
 # Define installation paths
-TESSERACT_URL = "https://github.com/UB-Mannheim/tesseract/releases/download/v5.3.3/tesseract-ocr-w64-setup-5.3.3.20231005.exe"
+TESSERACT_URL = "https://github.com/tesseract-ocr/tesseract/releases/download/5.5.0/tesseract-ocr-w64-setup-5.5.0.20241111.exe"
 TESSERACT_INSTALL_PATH = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 POPLER_URL = "https://github.com/oschwartz10612/poppler-windows/releases/download/v23.11.0-0/Release-23.11.0-0.zip"
 POPLER_INSTALL_PATH = r"C:\poppler"

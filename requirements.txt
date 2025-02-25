@@ -12,3 +12,4 @@ tqdm
 easyocr
 pdfminer.six
 unstructured
+openai
